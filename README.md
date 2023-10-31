@@ -23,6 +23,8 @@ Amante de gatos e sorvete. 🐈‍🍨
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
+# Status
+
 ![AnaBMamprin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaBMamprin&theme=nightowl&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaBMamprin&theme=nightowl&show_icons=true)
