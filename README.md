@@ -3,7 +3,7 @@ Nome: Ana Beatriz Mamprin
 
 Idade: 26 anos
 
-Análise e Desenvolvimento de Sistemas — FATEC Guarulhos — 3º semestre
+Análise e Desenvolvimento de Sistemas — FATEC Guarulhos — 5º semestre
 
 Amante de gatos e sorvete. 🐈‍🍨
 
